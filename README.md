@@ -7,8 +7,8 @@ RubyOnRails implementation of an OAUTH2.0 provider&amp;client using doorkeeper&a
 DESCRIPTION
 ========
 
- - <b>Provider:</b> contains a ruby on rails implementation of an OAUTH2.0 provider using [Doorkeeper](https://github.com/applicake/doorkeeper)
- - <b>Client:</b> contains a ruby on rails implementation of an OAUTH2.0 client using [OAUTH2](https://github.com/intridea/oauth2)
+ - <b>provider:</b> contains a ruby on rails implementation of an OAUTH2.0 provider using [Doorkeeper](https://github.com/applicake/doorkeeper)
+ - <b>client:</b> contains a ruby on rails implementation of an OAUTH2.0 client using [OAUTH2](https://github.com/intridea/oauth2)
  - <b>nginx.conf:</b> contains the nginx conf to make these projects works
 
 INFORMATIONS
